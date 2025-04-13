@@ -24,10 +24,5 @@
 
 🚀 Apaixonado por tecnologia e desenvolvimento, atualmente estou estudando AWS, Microserviços e Angular para expandir minhas habilidades e virar Desenvolvedor Full Stack.
 
-
-## 📊 Minhas Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsfelipedev&show_icons=true&theme=github_dark&locale=pt-br&count_private=true)
-
 ## 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,graphql,postgres,mysql,docker,python,git,html,css)](https://skillicons.dev)
