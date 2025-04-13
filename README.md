@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Ola!;Seja+Bem+Vindo;Me+Chamo+Luis+Felipe;EU+Sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
 
-<code>System.out.println("Bem vindo ao Meu Github!😎")</code>
 <hr>
 <!-- Contact Badges -->
 <p align="center">
@@ -23,6 +23,11 @@
 🎓 Cursando Análise e Desenvolvimento de Sistemas (4/5) 
 
 🚀 Apaixonado por tecnologia e desenvolvimento, atualmente estou estudando AWS, Microserviços e Angular para expandir minhas habilidades e virar Desenvolvedor Full Stack.
+
+## 📊 GitHub Stats
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lsfelipedev&show_icons=true&theme=radical)
+
 
 ## 🛠 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,graphql,postgres,mysql,docker,python,git,html,css)](https://skillicons.dev)
