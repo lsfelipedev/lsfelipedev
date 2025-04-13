@@ -16,7 +16,7 @@
     <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FDD64B?style=for-the-badge&logo=repo&logoColor=black&labelColor=f7c719" style="height: 30px;"/></a>
 </p>
 
-🙋‍♂️ Sou Luis Felipe, entusiasta de tecnologia e desenvolvedor de software no Brasil. Gosto de escrever código limpo, aprender coisas novas e compartilhar conhecimento com a galera. No tempo livre, estou sempre estudando e explorando novas tecnologias pra me manter atualizado.
+🙋‍♂️ Sou Luis Felipe, entusiasta de tecnologia e desenvolvedor de software. Gosto de escrever código limpo, aprender coisas novas e compartilhar conhecimento com a galera. No tempo livre, estou sempre estudando e explorando novas tecnologias pra me manter atualizado.
 
 💻 Desenvolvedor Backend | Foco em Java, Spring Boot, SQL, Docker e Git.
 
