@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Ola!;Seja+Bem+Vindo;Me+Chamo+Luis+Felipe;EU+Sou+Desenvolvedor+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0ebd8&size=35&center=true&vCenter=true&width=1000&lines=Ola!;Seja+Bem+Vindo;Me+Chamo+Luis+Felipe;EU+Sou+Desenvolvedor+de+Software&duration=2700)](https://git.io/typing-svg)
 
 <hr>
 <!-- Contact Badges -->
